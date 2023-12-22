@@ -1,3 +1,5 @@
+![alt text]([http://url/to/img.png](https://editor.analyticsvidhya.com/uploads/45844forest-fire.jpg))
+
 # Forest Fire Predictor Using Machine Learning
 
 forest-fire-predictor/
