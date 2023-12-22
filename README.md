@@ -1,5 +1,5 @@
-(https://editor.analyticsvidhya.com/uploads/45844forest-fire.jpg))![45844forest-fire (1)](https://github.com/sameerk126/forest-fire/assets/81867462/b048b424-bc2b-48ce-b3f4-20e6949a8490)
 
+![45844forest-fire (1)](https://github.com/sameerk126/forest-fire/assets/81867462/2c909ed0-baa8-4e06-9c22-6f4f1f09771c)
 
 # Forest Fire Predictor Using Machine Learning
 
