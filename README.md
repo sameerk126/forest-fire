@@ -1,4 +1,5 @@
-![alt text]([http://url/to/img.png](https://editor.analyticsvidhya.com/uploads/45844forest-fire.jpg))
+(https://editor.analyticsvidhya.com/uploads/45844forest-fire.jpg))![45844forest-fire (1)](https://github.com/sameerk126/forest-fire/assets/81867462/b048b424-bc2b-48ce-b3f4-20e6949a8490)
+
 
 # Forest Fire Predictor Using Machine Learning
 
