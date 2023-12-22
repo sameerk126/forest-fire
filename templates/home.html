@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../static/css/Style.css">
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/Style.css') }}">  -->
+</head>
+<body>
+    <h1>Forest Fire Prediction</h1>
+    <div class="main">
+    <form action="{{ url_for('predict_datapoint') }}", method="POST">
+
+
+        <input type="text" name="temp" placeholder="temperature" required><br>
+        <input type="text" name="Rh" placeholder="RH" required><br>
+        <input type="text" name="Ws" placeholder="WS" required><br>
+        <input type="text" name="Rain" placeholder="RAIN" required><br>
+        <input type="text" name="FFMC" placeholder="FFMC" required><br>
+        <input type="text" name="DMC" placeholder="DMC" required><br>
+        <input type="text" name="ISI" placeholder="ISI" required><br>
+        <input type="text" name="Class" placeholder="class" required><br>  
+        <input type="text" name="Region" placeholder="region" required><br>
+        <button type="submit">predict </button>
+    </form>
+    {{ prediction_text }}
+
+</div>
+</body>
+</html>
