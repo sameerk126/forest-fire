@@ -1,4 +1,4 @@
-# Forest Fire Predictor
+# Forest Fire Predictor Using Machine Learning
 
 forest-fire-predictor/
 This repository contains a machine learning web application to predict the risk of forest fires. The app is built with Flask and scikit-learn.
